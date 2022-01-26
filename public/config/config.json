@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE469C0fda91A8f64092D06d7B11f066Bdf45be4D",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe469c0fda91a8f64092d06d7b11f066bdf45be4d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "ColdOnes",
+  "SYMBOL": "COLD",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/coldones",
+  "SHOW_BACKGROUND": true
+}
